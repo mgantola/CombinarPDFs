@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CombinarPDFs/static/js/main.6a3c21a2.chunk.js",
+    "main.js.map": "/CombinarPDFs/static/js/main.6a3c21a2.chunk.js.map",
+    "runtime-main.js": "/CombinarPDFs/static/js/runtime-main.a05679fb.js",
+    "runtime-main.js.map": "/CombinarPDFs/static/js/runtime-main.a05679fb.js.map",
+    "static/js/2.d387fcf4.chunk.js": "/CombinarPDFs/static/js/2.d387fcf4.chunk.js",
+    "static/js/2.d387fcf4.chunk.js.map": "/CombinarPDFs/static/js/2.d387fcf4.chunk.js.map",
+    "index.html": "/CombinarPDFs/index.html",
+    "static/js/2.d387fcf4.chunk.js.LICENSE.txt": "/CombinarPDFs/static/js/2.d387fcf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a05679fb.js",
+    "static/js/2.d387fcf4.chunk.js",
+    "static/js/main.6a3c21a2.chunk.js"
+  ]
+}
